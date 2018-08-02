@@ -1,4 +1,4 @@
-package com.wgc.test.pool;
+package com.wgc.netty.pool;
 
 import java.nio.channels.ServerSocketChannel;
 

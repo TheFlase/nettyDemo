@@ -1,6 +1,6 @@
-package com.wgc.test;
+package com.wgc.netty;
 
-import com.wgc.test.pool.NioSelectorRunnablePool;
+import com.wgc.netty.pool.NioSelectorRunnablePool;
 
 import java.net.InetSocketAddress;
 import java.util.concurrent.Executors;

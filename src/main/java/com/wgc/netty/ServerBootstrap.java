@@ -1,7 +1,7 @@
-package com.wgc.test;
+package com.wgc.netty;
 
-import com.wgc.test.pool.Boss;
-import com.wgc.test.pool.NioSelectorRunnablePool;
+import com.wgc.netty.pool.Boss;
+import com.wgc.netty.pool.NioSelectorRunnablePool;
 
 import java.io.IOException;
 import java.net.SocketAddress;

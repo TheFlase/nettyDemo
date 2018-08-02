@@ -1,7 +1,7 @@
-package com.wgc.test;
+package com.wgc.netty;
 
-import com.wgc.test.pool.NioSelectorRunnablePool;
-import com.wgc.test.pool.Worker;
+import com.wgc.netty.pool.NioSelectorRunnablePool;
+import com.wgc.netty.pool.Worker;
 
 import java.io.IOException;
 import java.nio.ByteBuffer;

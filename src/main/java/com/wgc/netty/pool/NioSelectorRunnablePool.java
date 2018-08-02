@@ -1,7 +1,7 @@
-package com.wgc.test.pool;
+package com.wgc.netty.pool;
 
-import com.wgc.test.NioServerBoss;
-import com.wgc.test.NioServerWorker;
+import com.wgc.netty.NioServerBoss;
+import com.wgc.netty.NioServerWorker;
 
 import java.util.concurrent.Executor;
 import java.util.concurrent.atomic.AtomicInteger;
